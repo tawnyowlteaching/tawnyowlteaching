@@ -11,4 +11,6 @@ const NotFoundPage = () => (
   </Layout>
 )
 
+//Include duckrolled svg
+
 export default NotFoundPage
